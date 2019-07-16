@@ -1,2 +1,0 @@
-# egg-alinode
-egg-alinode
